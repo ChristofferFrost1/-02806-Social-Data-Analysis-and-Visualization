@@ -1,0 +1,5 @@
+# Large dataset files
+*.csv
+
+# Add a note about where to find the data
+# Data files are available at: [add your storage solution URL here]
